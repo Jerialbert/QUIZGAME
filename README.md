@@ -1,6 +1,6 @@
 # QUIZGAME
 
-in order to run the program run game.sln
+in order to run the game download the entire program and run game.sln
 
 If issues exist do the following:
 1. when running the program right click on the terminal and select properties
